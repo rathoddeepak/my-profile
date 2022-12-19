@@ -1,0 +1,128 @@
+[
+	{
+		"name" : "Loknete Vilasraoji Deshmukh Arogya Suraksha Yojana",
+		"desc" : "Government Application to manage 3000+ patients visits, active in 100+ hospitals in latur",
+		"about" : "This application is built for ios & android in react native to manage patient visits, prescriptions and health data",
+		"tags"  : ["React Native", "React JS", "NodeJS", "Java"],
+		"image"  : "https://iili.io/LNcyYl.png",
+		"photos" : [
+			"https://iili.io/LNctBs.jpg",
+			"https://iili.io/LNcDEG.jpg",
+			"https://iili.io/LNcb4f.jpg",
+			"https://iili.io/LNcQQn.jpg"
+		],
+		"storeLink" : "https://drive.google.com/file/d/1HfYlWk1HPf70wesYymN96oc1KKqpqvCd/view"
+	},
+	{
+		"name" : "Loknete Vilasraoji Deshmukh Arogya Suraksha Yojana",
+		"desc" : "Government Application to manage 3000+ patients visits, active in 100+ hospitals in latur",
+		"about" : "This application is built for ios & android in react native to manage patient visits, prescriptions and health data",
+		"tags"  : ["React Native", "React JS", "NodeJS", "Java"],
+		"image"  : "https://lh3.googleusercontent.com/voE-2wOaH2oHEwwdjSHGzoCuTO1cdwXIZQ7StdG7ou6iprHQUA_WahiMOQ1q85iqaI4",
+		"photos" : [
+			"https://lh3.googleusercontent.com/3lqcmAd6mRMoSIfnFH9YOSl30-46061SHBTbOUvuSnxXysH9kbZf92HXnFb4Sx8QjA",
+			"https://lh3.googleusercontent.com/h20V-tXXHu03qny75w6GWhk7SiZOeA2OHNrylMEGhI1jX0u8NsPGMW4fHOaZfixBj1o",
+			"https://lh3.googleusercontent.com/eLckB3Hf6XwOGQLmmZn7_SWLl4utuggI-XOm0BlOcuUzizDUDJWs-UQ63tzhSdjJaQ",
+			"https://lh3.googleusercontent.com/vkEW9vvRL8KgM7PPJpf8wNA4zjoVan6cV1emjL9coNn5bQZyQwgU9F_qaSGerYzAlA",
+			"https://lh3.googleusercontent.com/p3Y8Q1g9H_72i2Aqh7ptFjqIVA1LmJUwn1bMuoCBSdWlU0wR9_6ZFNRvH1jqCO-xrJEA"
+		],
+		"storeLink" : "https://play.google.com/store/apps/details?id=com.freshline"
+	},
+	{
+		"name" : "Fresh Line - Meat Delivery App",
+		"desc" : "First Meat Delivery Application in Latur",
+		"about" : "This application is build in react and nodejs for backend, it also includes complex and advance logistics management system",
+		"tags"  : ["React Native", "React JS", "Golang"],
+		"image"  : "https://lh3.googleusercontent.com/N_e-WIc0avpCKTaGUwXYH3rGZ3v5zjrt_9xhZD72KGsd8UrTRqUKUyJecPIRn-rqQA",
+		"photos" : [
+			"https://iili.io/LNlQ9V.jpg",
+			"https://lh3.googleusercontent.com/xowKdc_6DZ5lHDN1AAiOwo_7mV_Sayehj5jV0pOtXrkSlx2OuoUKGAU1BI14ddN4Nw",
+			"https://lh3.googleusercontent.com/EvFV2rGoPYmLBf4j7ZCMPYnlL0fPWWJyGeZJyVWobxsH66iWluzgWOwX7sVR2MyKFsc",
+			"https://lh3.googleusercontent.com/M6K_KBpoDlfnnlb42c8vpA-ehimhI7eTJ27cv18nxkaJv9J3ozLaZPsmUy1MQSxZo78"
+		],
+		"storeLink" : "https://drive.google.com/file/d/1HfYlWk1HPf70wesYymN96oc1KKqpqvCd/view"
+	},
+	{
+		"name" : "Real Route",
+		"desc" : "Fleet management application, to manage field work, vehicle management on demand deliveries",
+		"about" : "This application is build in react and golang for backend",
+		"tags"  : ["React Native", "React JS", "Golang"],
+		"image"  : "https://lh3.googleusercontent.com/N_e-WIc0avpCKTaGUwXYH3rGZ3v5zjrt_9xhZD72KGsd8UrTRqUKUyJecPIRn-rqQA",
+		"photos" : [
+			"https://iili.io/LNlQ9V.jpg",
+			"https://lh3.googleusercontent.com/xowKdc_6DZ5lHDN1AAiOwo_7mV_Sayehj5jV0pOtXrkSlx2OuoUKGAU1BI14ddN4Nw",
+			"https://lh3.googleusercontent.com/EvFV2rGoPYmLBf4j7ZCMPYnlL0fPWWJyGeZJyVWobxsH66iWluzgWOwX7sVR2MyKFsc",
+			"https://lh3.googleusercontent.com/M6K_KBpoDlfnnlb42c8vpA-ehimhI7eTJ27cv18nxkaJv9J3ozLaZPsmUy1MQSxZo78"
+		],
+		"storeLink" : "https://drive.google.com/file/d/1HfYlWk1HPf70wesYymN96oc1KKqpqvCd/view"
+	},
+	{
+		"name" : "Bus Khabri",
+		"desc" : "It is web application build in micro-service architecture to manage bus booking system",
+		"about" : "Build with codeignitor for php and go-micro for golang",
+		"tags"  : ["php", "codeignitor", "Golang"],
+		"image"  : "https://buskhabri.com/assets/img/icons/faaeb1b5b873ede8817439fd25022719.png",
+		"photos" : [
+			"https://iili.io/LN0VRV.png",
+			"https://iili.io/LN0VRV.png"
+		],
+		"storeLink" : "https://buskhabri.com/"
+	},
+	{
+		"name" : "Clufter An Innovative Food Delivery Application",
+		"desc" : "A startup that served 6000+ food delivery orders in latur city",
+		"about" : "I was the only developer & designer on this application, let’s dive into journey of clufter from success to failure challenges",
+		"tags"  : ["React Native", "React JS", "NodeJS", "PHP", "Java"],
+		"image"  : "https://lh3.googleusercontent.com/Y56yQmRZCQMWrLLhoA24mTILLssxmNsLA2xmae_deLCD9tJrwr2dj_cmU10yaVrQng",
+		"photos" : [
+			"https://lh3.googleusercontent.com/NCLZWurLTPoencdSt1tSoe3PCIGV4yJn5Z0p2g_CQF2bxiSIMXnE_Yh9z5xAx2KxgCcL",
+			"https://lh3.googleusercontent.com/rihezEj2_ksOhJVVo-0fBQiVPSuxo2grJ43cGZg7cZu45De56QLKO0eChjRKJjp0EA",
+			"https://lh3.googleusercontent.com/7CrD3b620fKC6f7-Bqy3R3XeIYAK0gbR-X2eRw62erRqOUR0O7_JqQV73XeCeyY5tGp_",
+			"https://lh3.googleusercontent.com/LFpoF95_j5vlnQeACpiKd4MTCTqgmSQRTUqLYPHCOQiBvtJPH1Sr6--ywyoxB-k4Hg",
+			"https://lh3.googleusercontent.com/MiiwpjVYzmyfbthKsTVnbwmbNmMwMResyMmEyXI6mh7dp1fcGC2hAQYbKV4fCo7y0y4",
+			"https://lh3.googleusercontent.com/gw4JyiyjEflkKFxmef-xqRl3X_wMo6X4h5TmEA91cW5FxV1Fuf7cXtIm2ANyfTWLpV0"
+		],
+		"storeLink" : "https://play.google.com/store/apps/details?id=com.clufter"
+	},
+	{
+		"name" : "Clufter Partner Application",
+		"desc" : "Partner Application for more than 100+ Hotel Vendors To Manage Orders",
+		"about" : "Partner App Build in React Native powered real time order and inventory management system for restaurants owner",
+		"tags"  : ["React Native", "React JS", "NodeJS", "PHP", "Java"],
+		"image"  : "https://lh3.googleusercontent.com/U4dNrOTXj8K_Bf7WTpgMLX_Sr_COTehmrGwP8sQzhptm-DzbWkQveDrpzv5nRczEoSo",
+		"photos" : [
+			"https://lh3.googleusercontent.com/k_SN0Y7FMlxR1g_5-5-jZY_M2X1zTyuz9cERUE-pEMpWC7XAXVOu3M3HkFoMCpBco_SA",
+			"https://lh3.googleusercontent.com/Ea_LP5-RP6xDmnH_Bye9HU6yfamxvsgECVwRWusf-SgAzXrjZQhlgTP3cPTZ1HHBjE0",
+			"https://lh3.googleusercontent.com/U1EwR3VeUxjxNozBmrKz-iS8VFKgD9Uu6bizRkmO1PEsdKOFxqybtgj0NqOr1a3Lrw4"
+		],
+		"storeLink" : "https://drive.google.com/file/d/1eOKvcr_HaVAJ2alBXBjIxau_9MxDX0BE/view"
+	},
+	{
+		"name" : "Delivery Agent Application",
+		"desc" : "Delivery Application Build for 100+ on road fleet management",
+		"about" : "I built this app in react native, it had backend in nodejs and background process for fetching live location was written in native java.",
+		"tags"  : ["React Native", "React JS", "NodeJS", "PHP", "Java"],
+		"image"  : "https://iili.io/LNIy7e.jpg",
+		"photos" : [
+			"https://iili.io/LNIM0P.jpg",
+			"https://iili.io/LNIVg1.jpg",
+			"https://iili.io/LNI1sV.jpg",
+			"https://iili.io/LNIGqB.jpg"
+		],
+		"storeLink" : "https://drive.google.com/file/d/1eHF5dpSrRd7LVRHss5W9u2hShluY9IwR/view"
+	},
+	{
+		"name" : "YdCrackers - Study Material for MSBTE & More",
+		"desc" : "An educational app which provides study material for MSBTE & many other boards",
+		"about" : "It is also a react native application, had features of video compression & video streaming",
+		"tags"  : ["React Native", "React JS", "PHP", "Java"],
+		"image"  : "https://lh3.googleusercontent.com/zmmhgMhirIAM55FYoXCBDmaeQT8b1aYZbTqPCVoMHPvJAAn8EYCO4R1xVO_ESEhY4fSq",
+		"photos" : [
+			"https://lh3.googleusercontent.com/55_Sdi-XP5IkAFlTJndQCNlfC9j6ZFu7ZKky8m0sREpjJsKhfxOT4Jrtizy-DoRDL6c",
+			"https://lh3.googleusercontent.com/EUVI9PFny7sc2gZq5bSKbxrgw2EyFXoHG5qgER-BUEna5cFdwIoho4TJsCB4nH1cYkk",
+			"https://lh3.googleusercontent.com/DaXe78aLGjCTFYgVKCZvYtumpZK1vA5F5mhVEaDq2kiMJADxKwIifWiGJbLDlYPntw",
+			"https://lh3.googleusercontent.com/5NSqKLROiwV9m4T4EA7-8WWxNnrMmLLsemnRCyk8fnWtjO5kSUc2nOtapG7o4ZVfePQ"
+		],
+		"storeLink" : "https://play.google.com/store/apps/details?id=com.ydcrackers"
+	}
+]
